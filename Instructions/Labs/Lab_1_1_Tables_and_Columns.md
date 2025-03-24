@@ -47,7 +47,7 @@ Die Tabelle „Spesenabrechnung“ enthält Informationen über die Spesenabrech
 3. Wählen Sie links im Navigationsbereich die Option **Lösungen** aus.
 4. Suchen und wählen Sie die Lösung „Spesenabrechnung“ aus.
 5. Wählen Sie die Schaltfläche **Neu** aus.
-6. Gehen Sie im angezeigten Menü zu **Tabelle.** Wählen Sie als Nächstes **Erweiterte Eigenschaften festlegen** aus.
+6. Gehen Sie im angezeigten Menü zu **Tabelle.** Wählen Sie als Nächstes **Tabelle (erweiterte Eigenschaften)** aus.
 7. Konfigurieren Sie Ihre neue Tabelle wie folgt:
    - Anzeigename: `Expense Line`
    - Pluralname: `Expense Lines`
@@ -82,7 +82,7 @@ Die Tabelle „Spesenabrechnung“ enthält Informationen über die Spesenabrech
 ### Aufgabe 3: Erstellen der Spalte „Spesenbetrag“
 1. Wählen Sie + Neue Spalte aus.
 2. Geben Sie für Anzeigename `Expense Amount` ein.
-3. Wählen Sie "Währung " für den Datentypaus.
+3. Wählen Sie Währung als Datentyp aus.
 4. Wählen Sie Speichern.
 
 ### Aufgabe 4: Erstellen der Spalte „Elementbeschreibung“

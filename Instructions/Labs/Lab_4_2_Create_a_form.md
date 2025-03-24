@@ -59,10 +59,10 @@ In diesem Vorgang ändern wir das Formular, das zum Hinzufügen von Spesenpositi
 
 1. Wenn Sie noch nicht angemeldet sind, melden Sie sich bei `https://make.powerapps.com` an.
 2. Wählen Sie oben rechts die Umgebung aus, in die Sie die Spesenabrechnungslösung importiert haben, falls sie noch nicht ausgewählt ist.
-3. Wählen Sie links im Navigationsbereich die Option „Solutions“ (Lösungen) aus.
+3. Wählen Sie links im Navigationsbereich die Option Lösungen aus.
 4. Öffnen Sie die Spesenabrechnungslösung.
 5. Suchen und öffnen Sie die Tabelle „Spesenzeile“.
-6. Wählen Sie im Abschnitt Datenfunktionen die Option Formulare aus, und öffnen Sie das Formular Informationen mit dem Formulartyp Main (Haupt). (Wichtig: Stellen Sie sicher, dass Sie das Formular mit dem Formulartyp Main (Haupt) auswählen.)
+6. Wählen Sie im Abschnitt „Datenfunktionen“ die Option Formulare aus, und öffnen Sie das Formular „Informationen“ mit dem Hauptformulartyp. (Wichtig: Stellen Sie sicher, dass Sie das Formular mit dem Formulartyp Main (Haupt) auswählen.)
 
 **WICHTIG**: Da alle Formulare standardmäßig „Information“ heißen, müssen Sie unbedingt überprüfen, ob das von Ihnen ausgewählte Formular den Formulartyp „Haupt“ hat, und keinen anderen. Standardmäßig verfügt das Formular über zwei Felder: „Spesentitel“ und „Besitzer“.
 
