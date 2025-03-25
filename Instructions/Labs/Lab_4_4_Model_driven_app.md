@@ -36,34 +36,30 @@ Der Einfachheit halber und aus Zeitgründen gehen wir in diesem Lab nicht auf al
 4. Öffnen Sie die Spesenabrechnungslösung.
 5. Suchen Sie die *`Employee Expense Management`*-Anwendung, die Sie in der letzten Übung erstellt haben.
 6. Wählen Sie **Bearbeiten** aus, um den modernen App-Designer zu öffnen.
-7. Wählen Sie auf der Befehlsleiste **Neue Seite** aus.
-8. Der Bildschirm **Neue Seite** wird geöffnet.
+7. Wählen Sie in der Befehlsleiste **+Seite hinzufügen** aus.
+8. Der Bildschirm **Neue Seite hinzufügen** wird geöffnet.
 9. Wählen Sie **Dataverse-Tabelle** aus.
 10. Wählen Sie die folgenden Tabellen aus:
     - Spesenabrechnung
     - Spesenposition
 11. Stellen Sie sicher, dass im Navigationsbereich „Anzeigen“ ausgewählt ist.
 12. Nachdem Sie die beiden Tabellen ausgewählt haben, wählen Sie **Hinzufügen** aus.
-13. Wählen Sie mithilfe der Navigationssymbole auf der linken Seite des Bildschirms **Navigation** aus.
-14. Wählen Sie im Navigationsbereich unterhalb der Bezeichnung „Navigation“ die Option **Neue Gruppe** aus. Möglicherweise müssen Sie das Menü links erweitern.
-15. Ändern Sie auf der rechten Seite des Bildschirms im Abschnitt Anzeigeoptionen die Eigenschaft Titel in *`Expense Reports`*.
-16. Wählen Sie im Abschnitt „Navigation“ die **Auslassungspunkte (drei Punkte)** neben **Spesenabrechnungen** aus. Wählen Sie im angezeigten Menü die Option **Nach oben** aus. Spesenabrechnungen sollten nun oberhalb der Spesenpositionen in der Navigation angezeigt werden.
-17. Wählen Sie unter „Navigation“ das Formular **Spesenabrechnungen** aus.
-18. Wechseln Sie auf der rechten Seite des Bildschirms zum Abschnitt „In dieser App“.
-19. Wählen Sie **Mehr anzeigen** aus.
-20. Wählen Sie die **Auslassungspunkte** neben dem Schnellansichtsformular für Informationen aus.
-21. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
-22. Wählen Sie die **Auslassungspunkte** neben dem Informationskartenformular aus.
-23. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
-24. Wählen Sie unter „Navigation“ das Formular **Spesenpositionen** aus.
-25. Wechseln Sie auf der rechten Seite des Bildschirms zum Abschnitt „In dieser App“.
-26. Wählen Sie **Mehr anzeigen** aus.
-27. Wählen Sie die **Auslassungspunkte** neben dem Schnellansichtsformular für Informationen aus.
-28. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
-29. Wählen Sie die **Auslassungspunkte** neben dem Informationskartenformular aus.
-30. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
-31. Klicken Sie auf **Speichern**, und warten Sie, bis die Änderungen gespeichert sind.
-32. Nachdem der Speichervorgang abgeschlossen wurde, wählen Sie die Schaltfläche **Veröffentlichen** aus, um Ihre Änderungen zu veröffentlichen. Warten Sie darauf, bis die Veröffentlichung abgeschlossen ist.
+13. Wählen Sie unter „Navigation“ das Formular **Spesenabrechnungen** aus.
+14. Wechseln Sie auf der rechten Seite des Bildschirms zum Abschnitt „In dieser App“.
+15. Wählen Sie **Mehr anzeigen** aus.
+16. Wählen Sie die **Auslassungspunkte** neben dem Schnellansichtsformular für Informationen aus.
+17. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
+18. Wählen Sie die **Auslassungspunkte** neben dem Informationskartenformular aus.
+19. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
+20. Wählen Sie unter „Navigation“ das Formular **Spesenpositionen** aus.
+21. Wechseln Sie auf der rechten Seite des Bildschirms zum Abschnitt „In dieser App“.
+22. Wählen Sie **Mehr anzeigen** aus.
+23. Wählen Sie die **Auslassungspunkte** neben dem Schnellansichtsformular für Informationen aus.
+24. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
+25. Wählen Sie die **Auslassungspunkte** neben dem Informationskartenformular aus.
+26. Wählen Sie im eingeblendeten Menü **Entfernen** aus.
+27. Klicken Sie auf **Speichern**, und warten Sie, bis die Änderungen gespeichert sind.
+28. Nachdem der Speichervorgang abgeschlossen wurde, wählen Sie die Schaltfläche **Veröffentlichen** aus, um Ihre Änderungen zu veröffentlichen. Warten Sie darauf, bis die Veröffentlichung abgeschlossen ist.
 
 ### Aufgabe 2: Testen der App
 **Starten der Anwendung**

@@ -60,16 +60,9 @@ Nach erfolgreichem Abschluss dieses Labs können Sie Folgendes:
 9. Wählen Sie **Dashboard** aus.
 10. Erkunden Sie die standardmäßig verfügbaren Systemdashboards. Wenn Sie fertig sind, wählen Sie eines der Dashboards aus, das Sie zu Ihrer App hinzufügen möchten.
 11. Wählen Sie **Hinzufügen**.
-12. Zeigen Sie unter „Navigation“ auf die Gruppe „Spesenabrechnungen“.
-13. Wählen Sie die **Auslassungspunkte** aus. Wählen Sie im eingeblendeten Menü **Neue Gruppe** aus.
-14. Wenn „Neue Gruppe“ ausgewählt ist, ändern Sie den Titel in **Dashboards.**
-15. Wählen Sie die Auslassungspunkte neben Dashboards aus, und wählen Sie **Nach oben** aus. Das Dashboard sollte sich jetzt über Spesenabrechnungen befinden.
-16. Suchen Sie das Systemdashboard, das Sie zuvor in der Aufgabe hinzugefügt haben, und wählen Sie es aus.
-17. Wählen Sie die Auslassungspunkte aus, und wählen Sie im angezeigten Menü **Nach oben** aus.
-18. Wiederholen Sie Schritt 17, um das Systemdashboard über die Spesenabrechnungsansicht zu verschieben.
-19. Wiederholen Sie Schritt 17 noch einmal, um das Systemdashboard in die Gruppe „Dashboards“ zu verschieben.
-20. Wählen Sie die Schaltfläche **Speichern** aus.
-21. Nachdem der Speichervorgang abgeschlossen wurde, wählen Sie die Schaltfläche **Veröffentlichen** aus.
+12. Wenn „Neue Gruppe“ ausgewählt ist, ändern Sie den Titel in **Dashboards.**
+13. Wählen Sie die Schaltfläche **Speichern** aus.
+14. Nachdem der Speichervorgang abgeschlossen wurde, klicken Sie auf die Schaltfläche **Speichern und veröffentlichen**.
 
 ### Aufgabe 4: Hinzufügen eines persönlichen Dashboards zur Mitarbeiterspesenverwaltungs-App
 1. Wenn Sie noch nicht angemeldet sind, melden Sie sich bei `https://make.powerapps.com` an.
