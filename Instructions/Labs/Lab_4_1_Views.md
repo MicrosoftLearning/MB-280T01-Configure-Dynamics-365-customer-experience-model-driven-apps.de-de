@@ -33,14 +33,14 @@ Abschluss von Modul 1 Lab 0 – Überprüfen der Lab-Umgebung
 
 ### Aufgabe Nr. 1: Bearbeiten der verschiedenen Ansichten für Spesenzeilen
 
-1. Falls Sie es noch nicht getan haben, melden Sie sich unter https://make.powerapps.com an.
+1. Falls noch nicht geschehen, melden Sie sich bei  `https://make.powerapps.com` an.
 2. Wählen Sie oben rechts die Umgebung aus, in die Sie die Spesenabrechnungslösung importiert haben, falls sie nicht bereits ausgewählt ist.
 3. Wählen Sie links im Navigationsbereich die Option **Lösungen** aus.
 4. Öffnen Sie die Spesenabrechnungslösung.
 5. Suchen und öffnen Sie die Tabelle „Spesenzeile“.
 6. Wählen Sie unter Datenerfahrungen **Ansichten** aus.
 7. Öffnen Sie die Ansicht **Aktive Spesenzeilen**.
-8. Klicken Sie auf **Spalte anzeigen.** Wählen Sie **Spesendatum, Artikelbeschreibung, Spesentyp** und **Spesenbetrag.**
+8. Klicken Sie auf **Spalte anzeigen.** Wählen Sie **Spesendatum, Artikelbeschreibung, Spesentyp** und **Spesenbetrag** aus.
 9. Suchen Sie die Spalte **Erstellt am** und markieren Sie sie. Wählen Sie im angezeigten Menü **Entfernen.**
 10. Ihre Ansicht sollte die Spalten „Spesentitel“, „Spesendatum“, „Artikelbeschreibung“, „Spesentyp“ und „Spesenbetrag“ enthalten.
 11. Wählen Sie die Schaltfläche **Speichern und veröffentlichen**.
@@ -51,7 +51,7 @@ Als Nächstes wiederholen wir diesen Vorgang, um die dazugehörige Spesenzeilena
 ### Aufgabe Nr. 2: Aktualisieren der dazugehörigen Spesenzeilenansicht 
 
 1. Suchen und öffnen Sie die dazugehörige Spesenzeilenansicht.
-2. Klicken Sie auf **Spalte anzeigen.** Wählen Sie **Spesendatum, Artikelbeschreibung, Spesentyp** und **Spesenbetrag.**
+2. Klicken Sie auf **Spalte anzeigen.** Wählen Sie **Spesendatum, Artikelbeschreibung, Spesentyp** und **Spesenbetrag** aus.
 3. Suchen Sie die Spalte **Erstellt am** und markieren Sie sie. Wählen Sie im angezeigten Menü **Entfernen.**
 4. Ihre Ansicht sollte die Spalten „Spesentitel“, „Spesendatum“, „Artikelbeschreibung“, „Spesentyp“ und „Spesenbetrag“ enthalten.
 5. Wählen Sie die Schaltfläche **Speichern und veröffentlichen**.
@@ -75,7 +75,7 @@ Schließlich wiederholen wir diesen Vorgang noch einmal, um die Ansicht „Aktiv
 
 ### Aufgabe Nr. 4: Bearbeiten der verschiedenen Spesenabrechnungsansichten
 
-1. Falls Sie es noch nicht getan haben, melden Sie sich unter https://make.powerapps.com an.
+1. Falls noch nicht geschehen, melden Sie sich bei  `https://make.powerapps.com` an.
 2. Wählen Sie oben rechts die Umgebung aus, in die Sie die Spesenabrechnungslösung importiert haben, falls sie nicht bereits ausgewählt ist.
 3. Wählen Sie links im Navigationsbereich die Option **Lösungen** aus.
 4. Öffnen Sie die Spesenabrechnungslösung.
@@ -115,7 +115,7 @@ Schließlich wiederholen wir diesen Vorgang noch einmal, um die Ansicht „Schne
 
 ### Aufgabe Nr. 7: Erstellen einer neuen Ansicht namens „Heute fällige Spesenabrechnungen“
 
-1. Falls Sie es noch nicht getan haben, melden Sie sich unter https://make.powerapps.com an.
+1. Falls noch nicht geschehen, melden Sie sich bei  `https://make.powerapps.com` an.
 2. Wählen Sie oben rechts die Umgebung aus, in die Sie die Spesenabrechnungslösung importiert haben, falls sie nicht bereits ausgewählt ist.
 3. Wählen Sie links im Navigationsbereich die Option **Lösungen** aus.
 4. Öffnen Sie die Spesenabrechnungslösung.
@@ -123,7 +123,7 @@ Schließlich wiederholen wir diesen Vorgang noch einmal, um die Ansicht „Schne
 6. Wählen Sie unter Datenerfahrungen **Ansichten** aus.
 7. Öffnen Sie die Ansicht „Aktive Spesenabrechnungen“.
 8. Wählen Sie die Schaltfläche **Speichern unter** aus.
-9. Ändern Sie den Namen in *Heute fällige Spesenabrechnungen.*
+9. Ändern Sie den Namen in *`Expense Reports Due Today`*.
 10. Wählen Sie die Schaltfläche **Speichern** aus.
 11. Wählen Sie im Abschnitt „Filtern nach“ die Option **Filter bearbeiten** aus.
 12. Wählen Sie die Schaltfläche **Hinzufügen** aus. Wählen Sie im angezeigten Menü **Zeile hinzufügen** aus.
